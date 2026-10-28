@@ -1,3 +1,5 @@
+**/terraform/.terraform/providers/
+**/.terraform/providers/
 terraform/.terraform/providers
 # State files
 *.tfstate
