@@ -1,1 +1,9 @@
-terraform/.terraform
+terraform/.terraform/providers
+# State files
+*.tfstate
+*.tfstate.*
+*.terraform.tfstate.lock.info
+
+# Crash logs
+crash.log
+crash.*.log
